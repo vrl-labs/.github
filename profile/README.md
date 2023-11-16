@@ -1,2 +1,2 @@
-# .github
+# VRL Labs
 About VRL Labs
