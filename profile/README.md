@@ -7,7 +7,7 @@ At VRL Labs, we excel in:
 * **Cybersecurity**: Protecting your digital assets with cutting-edge security measures.
 * **Threat Intelligence**: Providing insights and analysis to stay ahead of potential threats.
 * **Cyber Weather**: Monitoring and forecasting cyber threats to keep you informed.
-* **Polymorphic Malware**: Developing advanced solutions to combat evolving malware threats.
+* **Reverse Engineering**: Developing advanced solutions to combat evolving malware threats.
 
 ## Our Services
 In addition to our cybersecurity expertise, we offer a range of services including:
